@@ -11,7 +11,7 @@ import './style.css';
 export default function App() {
   return (
     <div class="site-wrapper">
-      <div class="nav-bar">
+      <div class="nav-bar ">
         <NavBar />
       </div>
       <div class="home-content">
